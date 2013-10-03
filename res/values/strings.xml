@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Slam</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="scan_toggle">Start</string>
+    <string name="mark">Mark</string>
+    <string name="clear">Clear</string>
+
+</resources>
